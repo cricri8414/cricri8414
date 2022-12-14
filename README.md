@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently studying computer engineering
-- 📫 How to reach me: cristinagogoi@edu.uah.es
-- 😄 Pronouns: BinarySearchTree/LinkedList
+🌱 I’m currently studying computer engineering
+📫 How to reach me: cristinagogoi@edu.uah.es
+😄 Pronouns: BinarySearchTree/LinkedList
