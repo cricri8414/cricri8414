@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 -🌱 I’m currently studying computer engineering
 -📫 How to reach me: cristinagogoi@edu.uah.es
